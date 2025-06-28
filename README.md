@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Umashankar Singh
 
-<div align="center">
-  <img src="./assets/img/headshot_circle.jpeg" alt="Umashankar Singh" width="200" height="200" style="border-radius: 50%;">
-</div>
+---
 
 ## 🚀 About Me
 
