@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Umashankar Singh
-
----
-
 ## 🚀 About Me
 
 I'm a passionate **Software Developer** with expertise in **full-stack development**. I love creating innovative solutions and contributing to open-source projects. My journey in software development has been driven by curiosity and a desire to solve real-world problems through technology.
