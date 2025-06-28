@@ -106,9 +106,9 @@ I'm a passionate **Software Developer** with expertise in **full-stack developme
 
 ## 📜 Certifications
 
-- **Infosys Certification in Introduction to Data Science** (2024) - [LinkedIn Post](https://www.linkedin.com/posts/umashankar-singh-414608237_datascience-activity-7164655045886627840-SWEU?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
-- **Infosys Certification in Introduction to Natural Language Processing** (2024) - [LinkedIn Post](https://www.linkedin.com/posts/umashankar-singh-414608237_nlp-activity-7167768987424972800-0bPn?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
-- **Udemy Certification in Web Development** (2024) - [LinkedIn Post](https://www.linkedin.com/posts/umashankar-singh-414608237_activity-7233003461741584384-G4BO?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
+- **Infosys Certification in Introduction to Data Science** (2024) - [Link](https://www.linkedin.com/posts/umashankar-singh-414608237_datascience-activity-7164655045886627840-SWEU?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
+- **Infosys Certification in Introduction to Natural Language Processing** (2024) - [Link](https://www.linkedin.com/posts/umashankar-singh-414608237_nlp-activity-7167768987424972800-0bPn?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
+- **Udemy Certification in Web Development** (2024) - [Link](https://www.linkedin.com/posts/umashankar-singh-414608237_activity-7233003461741584384-G4BO?utm_source=share&utm_medium=member_android&rcm=ACoAADsAMFABnPLYuDaleLmpHIsh9vti_TwORc0)
 
 ---
 
@@ -122,7 +122,7 @@ I'm a passionate **Software Developer** with expertise in **full-stack developme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umashankar-singh-4b6a8a2a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umashankar-singh-414608237)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ussingh47)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umashankar47@gmail.com)
 
@@ -131,5 +131,5 @@ I'm a passionate **Software Developer** with expertise in **full-stack developme
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://linkedin.com/in/umashankar-singh-4b6a8a2a7">Umashankar Singh</a></i>
+  <i>⭐️ From <a href="https://www.linkedin.com/in/umashankar-singh-414608237">Umashankar Singh</a></i>
 </div>
