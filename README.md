@@ -1,3 +1,11 @@
+# 👋 Hi, I'm Umashankar Singh
+
+<div align="center">
+  <img src="./assets/img/headshot_circle.jpeg" alt="Umashankar Singh" width="200" height="200" style="border-radius: 50%;">
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a passionate **Software Developer** with expertise in **full-stack development**. I love creating innovative solutions and contributing to open-source projects. My journey in software development has been driven by curiosity and a desire to solve real-world problems through technology.
